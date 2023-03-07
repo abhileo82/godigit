@@ -1,0 +1,12 @@
+private static final long serialversionUID = 1L;
+
+protected void getURL(){
+String url ="http://trial-ccbc.godigit.com/external/getsomething/docfile?po=D56";
+
+private String setString(0 {
+
+return "Hello";
+
+}
+
+public void getURL1(){
